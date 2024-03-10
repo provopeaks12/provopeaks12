@@ -1,0 +1,92 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.presiding, .header {
+    text-align: center;
+}
+
+.program h3 {
+    margin-top: 2em;
+    margin-bottom: 0.3em;
+}
+
+.program p {
+    margin-top: 0.3em;
+}
+
+.header img {
+    border-radius: 500px;
+    width: 280px;
+    margin-top: 3em;
+}
+
+.header h2 {
+    font-size: 18px;
+}
+
+.bulletin {
+    border: solid 3px black;
+    border-radius: 30px;
+    margin: 2em;
+    padding: 1em 2em;
+    font-size: 22px;
+}
+
+.hymnName {
+    font-style: italic;
+}
+
+.announcements h2 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5em;
+}
+
+.announcements li {
+    margin: 2em 0;
+    list-style: none;
+}
+
+.announcements ul {
+    padding: 0;
+}
+
+.presiding {
+    font-size: 20px;
+}
+
+/* @media only screen and (min-width: 600px) {
+    .bulletin {
+        width: 50%;
+        margin: auto;
+    }
+
+    .header img {
+        width: 150px;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    h3, p {
+        font-size: 18px;
+    }
+
+    .program h3 {
+        margin-top: 1em;
+    }
+
+    .presiding p {
+        margin: 0.5em;
+    }
+
+    .announcements li {
+        font-size: 18px;
+    }
+} */
