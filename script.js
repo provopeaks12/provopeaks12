@@ -27,8 +27,6 @@ function threeSpeakerTemplate(item) {
   <h3>Sacrament Hymn</h3>
   <p>#${item.sacramentHymnNumber} <span class="hymnName">${item.sacramentHymnName}</span></p>
   <h3>Blessing and Passing of the Sacrament</h3>
-  <h3>Youth Speaker</h3>
-  <p>${item.firstSpeaker}</p>
   <h3>Speaker</h3>
   <p>${item.secondSpeaker}</p>
   <h3>Intermediate Hymn</h3>
