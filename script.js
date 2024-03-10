@@ -36,7 +36,7 @@ function threeSpeakerTemplate(item) {
   <h3>Speaker</h3>
   <p>${item.thirdSpeaker}</p>
   <h3>Closing Hymn</h3>
-  <p>#${item.closingHymnNumber} <span class="hymnName">${item.closingHymnNumber}</span></p>
+  <p>#${item.closingHymnNumber} <span class="hymnName">${item.closingHymnName}</span></p>
   <h3>Benediction</h3>
   <p>${item.benediction}</p>`;
 
